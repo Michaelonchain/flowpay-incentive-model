@@ -1,0 +1,23 @@
+# FlowPay Token Engineering
+
+FlowPay (FPAY) is a token model designed for payments and DeFi usage.
+
+This repository documents the full token engineering process, including:
+
+- Token specification  
+- Allocation strategy  
+- Incentive design  
+- Emission schedule  
+- Governance model  
+- Risk analysis  
+- Scenario simulation  
+
+## Goal
+
+To design a sustainable token economy that balances growth, incentives, and long-term stability.
+
+## Key Insight
+
+Token design is not just about launching.
+
+It’s about building a system that survives.
